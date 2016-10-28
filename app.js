@@ -284,7 +284,7 @@ if (helpers.getHashParams().access_token) {
 
 // Scrub fragment params from url.
 if (window.history && window.history.replaceState) {
-  window.history.replaceState({}, document.title, "/neodice");
+  window.history.replaceState({}, document.title, "/");
 } else {
   // For browsers that don't support html5 history api, just do it the old
   // fashioned way that leaves a trailing '#' in the url
