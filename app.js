@@ -1858,7 +1858,7 @@ var Footer = React.createClass({
         {
           href: 'http://rainbow.btcpot.cf'
         },
-        'neodice'
+        'BTCPot (Flare Network)'
       ),
       el.span(
         null,
