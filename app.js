@@ -1853,16 +1853,16 @@ var Footer = React.createClass({
           marginBottom: '30px'
         }
       },
-      'copyright 2015 ',
+      'Copyright 2016 ',
       el.a(
         {
-          href: 'http://neodice.cf'
+          href: 'http://rainbow.btcpot.cf'
         },
         'neodice'
       ),
       el.span(
         null,
-        ' | View on '
+        ' | '
       ),
       el.a(
         {
